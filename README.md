@@ -4,10 +4,10 @@ Find the executable file at https://drive.google.com/file/d/16C7HuqcTGNKeVRPy-Z5
 A Python-based GUI tool that extracts tabular data from bank statement PDF files and converts it into a formatted Excel spreadsheet.
 
 # Table of Contents
-- Overview
+- [Overview](#overview)
 - Features
 - Requirements
-- Installation and Setup
+- [Installation and Setup](#installation-and-setup)
 - Usage Instructions
 - Code Structure
 - Error Handling
