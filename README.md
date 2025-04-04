@@ -51,12 +51,20 @@ PDF File Selection: Browse and select a bank statement PDF.
 # Usage Instructions
 1. Launch the Application:
 Running GUI.py opens the PDF Bank Statement Table Extractor window.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8419497-da54-4dab-8f7d-6b04ba9fad48" width="500" alt="Landing Window">
+</p>
 
-2. Select PDF File:
-Click the Browse… button next to the PDF File field and choose your bank statement PDF.
+
+3. Select PDF File:
+Click the Browse… button next to the PDF File field and choose your bank statement PDF.<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68928945-990b-4ad8-bcda-1264685b1e81" width="700" alt="Your Image Description">
+</p>
+
 Example PDF:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b18b52fc-a10a-4985-a279-c311265f9ffe" alt="Your Image Description">
+  <img src="https://github.com/user-attachments/assets/b18b52fc-a10a-4985-a279-c311265f9ffe" width="500" alt="Your Image Description">
 </p>
 
 4. Configure Excel Output:
@@ -64,19 +72,27 @@ Use the auto-generated Excel path or click the Browse… button next to Excel Ou
 
 5. Choose Date Format:
 Select your desired date format from the drop-down menu. A live example of the selected format is displayed.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e33ab790-6b85-404a-bcff-ee879e9158f4" width="500" alt="Your Image Description">
+</p>
 
-6. Extract and Generate Excel:
+
+7. Extract and Generate Excel:
 Click Extract Table and Generate Excel. The application:
     - Extracts text using pdfplumber
     - Parses transaction data with regex
     - Cleans and formats dates, amounts, and balances
     - Exports the data to a styled Excel file
 
-7. Completion:
-A success message will confirm the creation of the Excel file. You can then choose to extract data from another PDF or exit the application.
+8. Completion:
+A success message will confirm the creation of the Excel file. You can then choose to extract data from another PDF or exit the application.<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad934603-cc4c-4a56-9b06-30a9cc70f0a7" width="500" alt="Your Image Description">
+</p>
+
 Example output file:
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31578e3a-b08c-49d3-a26d-d5dbab09d7f8" alt="Your Image Description">
+  <img src="https://github.com/user-attachments/assets/31578e3a-b08c-49d3-a26d-d5dbab09d7f8" width="500" alt="Your Image Description">
 </p>
 
 # Code Structure
