@@ -54,22 +54,27 @@ Running GUI.py opens the PDF Bank Statement Table Extractor window.
 
 2. Select PDF File:
 Click the Browse… button next to the PDF File field and choose your bank statement PDF.
+Example PDF:
+![image](https://github.com/user-attachments/assets/b18b52fc-a10a-4985-a279-c311265f9ffe)
 
-3. Configure Excel Output:
+
+4. Configure Excel Output:
 Use the auto-generated Excel path or click the Browse… button next to Excel Output to specify a different location.
 
-4. Choose Date Format:
+5. Choose Date Format:
 Select your desired date format from the drop-down menu. A live example of the selected format is displayed.
 
-5. Extract and Generate Excel:
+6. Extract and Generate Excel:
 Click Extract Table and Generate Excel. The application:
     - Extracts text using pdfplumber
     - Parses transaction data with regex
     - Cleans and formats dates, amounts, and balances
     - Exports the data to a styled Excel file
 
-6. Completion:
+7. Completion:
 A success message will confirm the creation of the Excel file. You can then choose to extract data from another PDF or exit the application.
+Example output file:
+![image](https://github.com/user-attachments/assets/31578e3a-b08c-49d3-a26d-d5dbab09d7f8)
 
 # Code Structure
 ## Imports and Dependencies
