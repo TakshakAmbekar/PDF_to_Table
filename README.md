@@ -5,12 +5,12 @@ A Python-based GUI tool that extracts tabular data from bank statement PDF files
 
 # Table of Contents
 - [Overview](#overview)
-- Features
-- Requirements
+- [Features](#features)
+- [Requirements](#requirements)
 - [Installation and Setup](#installation-and-setup)
-- Usage Instructions
-- Code Structure
-- Error Handling
+- [Usage Instructions](#usage-instructions)
+- [Code Structure](#code-structure)
+- [Error Handling](#error-handling)
 
 # Overview
 The PDF Bank Statement Table Extractor is a GUI application built with Tkinter. It extracts transaction details such as date, description, amount, and balance from a bank statement in PDF format and exports the data into an Excel file with proper formatting and styling.
