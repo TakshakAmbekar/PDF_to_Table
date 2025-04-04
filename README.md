@@ -55,8 +55,9 @@ Running GUI.py opens the PDF Bank Statement Table Extractor window.
 2. Select PDF File:
 Click the Browse… button next to the PDF File field and choose your bank statement PDF.
 Example PDF:
-![image](https://github.com/user-attachments/assets/b18b52fc-a10a-4985-a279-c311265f9ffe)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b18b52fc-a10a-4985-a279-c311265f9ffe" alt="Your Image Description">
+</p>
 
 4. Configure Excel Output:
 Use the auto-generated Excel path or click the Browse… button next to Excel Output to specify a different location.
@@ -74,7 +75,9 @@ Click Extract Table and Generate Excel. The application:
 7. Completion:
 A success message will confirm the creation of the Excel file. You can then choose to extract data from another PDF or exit the application.
 Example output file:
-![image](https://github.com/user-attachments/assets/31578e3a-b08c-49d3-a26d-d5dbab09d7f8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31578e3a-b08c-49d3-a26d-d5dbab09d7f8" alt="Your Image Description">
+</p>
 
 # Code Structure
 ## Imports and Dependencies
