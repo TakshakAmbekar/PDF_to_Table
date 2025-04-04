@@ -62,7 +62,7 @@ Click the Browse… button next to the PDF File field and choose your bank state
   <img src="https://github.com/user-attachments/assets/68928945-990b-4ad8-bcda-1264685b1e81" width="700" alt="Your Image Description">
 </p>
 
-Example PDF:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Example PDF:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b18b52fc-a10a-4985-a279-c311265f9ffe" width="500" alt="Your Image Description">
 </p>
@@ -90,7 +90,7 @@ A success message will confirm the creation of the Excel file. You can then choo
   <img src="https://github.com/user-attachments/assets/ad934603-cc4c-4a56-9b06-30a9cc70f0a7" width="500" alt="Your Image Description">
 </p>
 
-Example output file:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Example output file:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/31578e3a-b08c-49d3-a26d-d5dbab09d7f8" width="500" alt="Your Image Description">
 </p>
