@@ -36,8 +36,8 @@ PDF File Selection: Browse and select a bank statement PDF.
 # Installation and Setup
 1. Clone the Repository
   ```bash
-  git clone https://github.com/yourusername/repository-name.git
-  cd repository-name
+  git clone https://github.com/TakshakAmbekar/PDF_to_Table
+  cd PDF_to_Table
   ```
 2. Install the Dependencies
   ```bash
